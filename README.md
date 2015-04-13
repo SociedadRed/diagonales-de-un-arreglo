@@ -1,2 +1,2 @@
-# diagonales-de-un-arreglo
+# Diagonales de un arreglo
 Obtener todas las posibles diagonales de un arreglo dado
